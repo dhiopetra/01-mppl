@@ -1,4 +1,4 @@
-3 MPPL :
+3 MPPL yang mewakili klasik maupun agile :
 
    1.PEMROGRAMAN 
     Pemrograman adalah proses menulis, menguji dan memperbaiki (, dan memelihara kode yang membangun suatu program komputer. Kode ini ditulis dalam berbagai bahasa pemrograman. Tujuan dari pemrograman adalah untuk memuat suatu program yang dapat melakukan suatu perhitungan atau 'pekerjaan' sesuai dengan keinginan si pemrogram.  Untuk melakukan pemrograman, diperlukan keterampilan dalam algoritme, logika, dan bahasa pemrograman, 
